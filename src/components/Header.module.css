@@ -1,0 +1,26 @@
+
+.header{
+
+    color: white;
+    padding: .3rem;
+    display: flex;
+    justify-content: space-between;
+    max-width: 120rem;
+    width: 95%;
+    margin: 0 auto;
+    align-items: center;    
+}
+
+.container{
+    background-image: linear-gradient(180deg, #9fb7f5 0, #6c90d8 50%, #2c6bbb 100%);
+ 
+}
+
+.component-1{
+
+    font-size: 1.5rem;
+}
+.header-children{
+
+    
+}

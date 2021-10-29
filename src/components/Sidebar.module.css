@@ -1,0 +1,30 @@
+.sidebar{
+
+    background-image: radial-gradient(circle at 50% -20.71%, #be5af5 0, #a04ff4 16.67%, #7944f3 33.33%, #3c3cf2 50%, #0037f1 66.67%, #0034ef 83.33%, #0034ee 100%);
+width: 5%;
+
+}
+
+.sidebar ul{
+margin: 0;
+padding: 0;
+list-style: none;
+
+
+}
+
+.sidebar ul li {
+    padding-top: 1rem;
+}
+
+.icon-background {
+   font-size: 2rem;
+   cursor: pointer;
+   margin: .5rem;
+   
+    
+ }
+.icon-background path{
+   fill: white;
+
+}
