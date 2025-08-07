@@ -7,20 +7,11 @@ import Workspace from './components/Workspace';
 function App() {
   return (
     <div className="App">
-          <Header />
-
- 
-
+      <Header />
       <div className="flex-parent">
       <Sidebar />
       <Workspace  />
-
-      </div>
-          
-
-
-
-          
+      </div>      
     </div>
   );
 }
